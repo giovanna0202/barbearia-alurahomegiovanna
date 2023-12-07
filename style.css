@@ -1,4 +1,4 @@
-cabeçalho{background-color: gray;}
+.cabeçalho{background-color: gray;}
 
 .caixa{position: relative;
 width: 940px;
@@ -55,8 +55,10 @@ border-radius: 10px;
 
 
     footer{ text-align: center;
-    background-color: black;}
+    background-color:grey;}
+
+    .rodape{color:white;}
 
 
-.rodapé{ color: aliceblue;}
+.foto{ width:40%;}
 
